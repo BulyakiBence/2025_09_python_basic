@@ -1,7 +1,6 @@
 """
 4️ Három szám közül a legnagyobb
 Kérj be három egész számot, és írd ki, melyik a legnagyobb.
-
 """
 szam1 = int(input('Adj meg egy egesz szamot: '))
 szam2 = int(input('Adj meg egy masodikat: '))
