@@ -19,5 +19,3 @@ if csempe < szukseg :
     print('Nem lesz elég, kell még csempe')
 else:
     print('Elég lesz a csempe')
-
-
